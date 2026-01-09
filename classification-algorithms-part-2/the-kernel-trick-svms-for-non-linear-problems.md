@@ -36,5 +36,5 @@ Summary of The Kernel Trick: SVMs for Non-Linear Problems will be added here.
 
 ---
 
-*Last updated: 2025-12-20*
+*Last updated: 2026-01-09*
 

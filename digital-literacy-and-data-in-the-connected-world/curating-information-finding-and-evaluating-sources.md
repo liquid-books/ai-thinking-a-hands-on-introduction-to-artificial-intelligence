@@ -36,5 +36,5 @@ Summary of Curating Information: Finding and Evaluating Sources will be added he
 
 ---
 
-*Last updated: 2025-12-20*
+*Last updated: 2026-01-09*
 

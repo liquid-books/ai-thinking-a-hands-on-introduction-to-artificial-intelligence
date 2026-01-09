@@ -36,5 +36,5 @@ Summary of AI Implementation Readiness: Is Your Organization Prepared? will be a
 
 ---
 
-*Last updated: 2025-12-20*
+*Last updated: 2026-01-09*
 

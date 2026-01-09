@@ -36,5 +36,5 @@ Summary of Repetition: Loops and Iteration will be added here.
 
 ---
 
-*Last updated: 2025-12-20*
+*Last updated: 2026-01-09*
 

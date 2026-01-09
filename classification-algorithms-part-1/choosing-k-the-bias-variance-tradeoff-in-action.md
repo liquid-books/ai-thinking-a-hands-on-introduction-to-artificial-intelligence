@@ -36,5 +36,5 @@ Summary of Choosing K: The Bias-Variance Tradeoff in Action will be added here.
 
 ---
 
-*Last updated: 2025-12-20*
+*Last updated: 2026-01-09*
 

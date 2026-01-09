@@ -36,5 +36,5 @@ Summary of Linear Classifiers: Drawing Lines to Separate Classes will be added h
 
 ---
 
-*Last updated: 2025-12-20*
+*Last updated: 2026-01-09*
 

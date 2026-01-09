@@ -36,5 +36,5 @@ Summary of Computing at Scale: Cloud, GPUs, and Infrastructure will be added her
 
 ---
 
-*Last updated: 2025-12-20*
+*Last updated: 2026-01-09*
 

@@ -36,5 +36,5 @@ Summary of The AI Project Cycle: Problem → Data → Model → Deploy → Evalu
 
 ---
 
-*Last updated: 2025-12-20*
+*Last updated: 2026-01-09*
 

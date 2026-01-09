@@ -36,5 +36,5 @@ Summary of A Brief History: From Turing to ChatGPT will be added here.
 
 ---
 
-*Last updated: 2025-12-20*
+*Last updated: 2026-01-09*
 

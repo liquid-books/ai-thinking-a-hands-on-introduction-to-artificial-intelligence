@@ -36,5 +36,5 @@ Summary of Exploring Your Data: First Steps with pandas will be added here.
 
 ---
 
-*Last updated: 2025-12-20*
+*Last updated: 2026-01-09*
 

@@ -36,5 +36,5 @@ Summary of Levels of Autonomy: From Cruise Control to Full Self-Driving will be 
 
 ---
 
-*Last updated: 2025-12-20*
+*Last updated: 2026-01-09*
 

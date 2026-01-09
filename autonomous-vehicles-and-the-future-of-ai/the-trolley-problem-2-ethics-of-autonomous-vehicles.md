@@ -36,5 +36,5 @@ Summary of The Trolley Problem 2.0: Ethics of Autonomous Vehicles will be added 
 
 ---
 
-*Last updated: 2025-12-20*
+*Last updated: 2026-01-09*
 
